@@ -3,4 +3,4 @@ project(muti_threads)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(muti_threads main.cpp)
+add_executable(muti_threads main.cpp function_pointer/fn_p.cpp function_pointer/fn_p.h)
