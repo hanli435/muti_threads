@@ -5,4 +5,9 @@
 #ifndef MUTI_THREADS_FN_P_H
 #define MUTI_THREADS_FN_P_H
 
+#include <iostream>
+
+void test_fnp();
+void test_fnp1(int);
+
 #endif //MUTI_THREADS_FN_P_H
